@@ -1,6 +1,6 @@
 https://tudublin-my.sharepoint.com/:p:/r/personal/a00035719_mytudublin_ie/Documents/Presentation.pptx?d=w2be48e1c4b86490ba9759e435615aa7f&csf=1&web=1&e=3yxiYb
 
-#Societal Impact of Portable Computing#
+## Societal Impact of Portable Computing
 
 
 The new age of technology has been a major benefit to society and intrapersonal relationships. 
@@ -27,3 +27,4 @@ This highlights the strong impact misinformation has on society.
 [https://cmpsurvey.org/2020-survey/]
 
 [https://www.brookings.edu/articles/misinformation-is-eroding-the-publics-confidence-in-democracy/]
+
