@@ -1,6 +1,8 @@
 https://tudublin-my.sharepoint.com/:p:/r/personal/a00035719_mytudublin_ie/Documents/Presentation.pptx?d=w2be48e1c4b86490ba9759e435615aa7f&csf=1&web=1&e=3yxiYb
 
-##Societal Impact of Portable Computing##
+#Societal Impact of Portable Computing#
+
+
 The new age of technology has been a major benefit to society and intrapersonal relationships. 
 Having contiuous access to mobile phones and social media has allowed people to communicate with one another far more frequently than what it was in the past.
 Applications such as social media, along with various messaging apps creates a widespread ability to text, rather than calling people. The disadvantage of this, however, is that today's youth are far more incapable of interacting with each other, whether its talking on the phone or connecting in person.
@@ -17,27 +19,11 @@ This highlights the strong impact misinformation has on society.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ***reference***
 [https://www.cnbc.com/2025/08/01/human-ai-relationships-love-nomi.html (Accessed 22/10/25)]
 [https://norfolkchamber.co.uk/member-news/the-evolution-and-impact-of-mobile-devices-in-our-daily-lives/ (Accessed 22/10/25)]
 [https://www.pewresearch.org/internet/2019/03/07/majorities-say-mobile-phones-are-good-for-society-even-amid-concerns-about-their-impact-on-children/(Accessed 22/10/25)]
 [https://spunout.ie/voices/opinion/universal-access-to-information-important/ (Accessed 22/10/25)]
 [https://cmpsurvey.org/2020-survey/]
+
 [https://www.brookings.edu/articles/misinformation-is-eroding-the-publics-confidence-in-democracy/]
