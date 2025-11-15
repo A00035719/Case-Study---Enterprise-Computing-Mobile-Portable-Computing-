@@ -15,7 +15,7 @@ For example, the democratic state of the United States of America since 2020 has
 Studies such as the Collaborative Multi-Racial Political Study highlighted that around 57% of white Americans believed in some kind of voter fraud in the 2020 elections. 
 This highlights the strong impact misinformation has on society.
 
-.... need to import more of my file from my sister's laptop, WIFI wasn't working on my own laptop.
+Portable Computing has completely transformed the current workplace. Access to the internet has allowed the integration of hybrid and remote work. Remote work is defined as a modern form of working from outside the workplace, often ensuring increased flexibility of a person's time. This has been proven to be important for a worker's wellbeing, giving time to hobbies and interpersonal relationships outside of the office. However, it's been recorded amongst younger generations that workers are wanting less-remote work, stating they tend to feel more loneyly during the working day. 24% of Generation Z surveyed by IRP stated that they wanted less-remote work, while 33% of Millenials opted for more remote work. This highlights a want in the more technology literate generations for more in-person human connection, despite having the option of being able to work from their own homes.
 
 
 
@@ -27,4 +27,4 @@ This highlights the strong impact misinformation has on society.
 [https://cmpsurvey.org/2020-survey/]
 
 [https://www.brookings.edu/articles/misinformation-is-eroding-the-publics-confidence-in-democracy/]
-
+[https://instituteforpr.org/how-do-different-generations-feel-about-hybrid-and-remote-work/]
