@@ -17,27 +17,41 @@ This highlights the strong impact misinformation has on society.
 
 Portable Computing has completely transformed the current workplace. Access to the internet has allowed the integration of hybrid and remote work. Remote work is defined as a modern form of working from outside the workplace, often ensuring increased flexibility of a person's time. This has been proven to be important for a worker's wellbeing, giving time to hobbies and interpersonal relationships outside of the office. However, it's been recorded amongst younger generations that workers are wanting less-remote work, stating they tend to feel more loneyly during the working day. 24% of Generation Z surveyed by IRP stated that they wanted less-remote work, while 33% of Millenials opted for more remote work. This highlights a want in the more technology literate generations for more in-person human connection, despite having the option of being able to work from their own homes.
 
+## Ethical and Legal Implications
+The introduction of portable computing draws safety concerns. driverless cars may begin to become more common on roads. However, as of now, these cars still have concerns based on pedestrian and other driver's safety. The security of data is also a major concern. Data leaks are unfortunately extremely common, and hackers are able to access user's personal data. Email inboxes, social media accounts and networks that computers can access are all prone to hacking. The unrestricted internet access of minors is a huge ethical concern also. Minors can access a plethora of harmful content on the internet in the form of videos and social media posts. A study by PMJ Pediatrics Open highlights a staggering amount of harmful data amongst 10-17 year olds, with 622 participants, such as cyberbullying.  Illegal data is also extremely common with the increased use of portable computing. Sharing people's data without consent, pirated movies and shows and distributing them are but a few examples of the legal concerns surrounding portable computing.
 
+## Future Improvements
+There are still many risks regarding portable computing. In order to improve and safeguard ourselves, there must be stricter legistlation put in place to protect both our data, and children's wellbeing. While technology continues to change and improve, we can expect more advanced forms of computing to become smaller and smaller over time, much like the improvements made to the phone over the years. AI is becoming more and more prominent in computing, so improvements need to be made in order for it to become an actual tool, rather than it being a commonly misinformed robot. Battery life for portable computing is still a major issue, so improvements also need to be made to increase battery life. AR and VR improvements will also allow these forms of technology to further merge into everyday use.
 
 ***reference***
+[https://pmc.ncbi.nlm.nih.gov/articles/PMC12007062/]
 [https://www.cnbc.com/2025/08/01/human-ai-relationships-love-nomi.html (Accessed 22/10/25)]
 [https://norfolkchamber.co.uk/member-news/the-evolution-and-impact-of-mobile-devices-in-our-daily-lives/ (Accessed 22/10/25)]
 [https://www.pewresearch.org/internet/2019/03/07/majorities-say-mobile-phones-are-good-for-society-even-amid-concerns-about-their-impact-on-children/(Accessed 22/10/25)]
 [https://spunout.ie/voices/opinion/universal-access-to-information-important/ (Accessed 22/10/25)]
 [https://cmpsurvey.org/2020-survey/]
-
+[https://www.bbc.co.uk/bitesize/guides/zbgg4qt/revision/1]
 [https://www.brookings.edu/articles/misinformation-is-eroding-the-publics-confidence-in-democracy/]
 [https://instituteforpr.org/how-do-different-generations-feel-about-hybrid-and-remote-work/]
+[https://medium.com/@edmundskimberly763/the-future-of-mobile-computing-technology-a-glimpse-into-the-coming-years-835917d18752]
+[*A computer in your pocket: The rise of smartphones | Science Museum​ **(https://www.sciencemuseum.org.uk/)]
+[https://www.jstor.org/stable/45211547?searchText=the+magic+inside+your+cell+phone&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dthe%2Bmagic%2Binside%2Byour%2Bcell%2Bphone%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A2c68a3db2580a4bc98aba26ee5b393f1&seq=2]
+[https://www.jstor.org/stable/44281955?searchText=seven+fears+and+the+science+of+how+mobile+technologies+may+be+influence+madeleine&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dseven%2Bfears%2Band%2Bthe%2Bscience%2Bof%2Bhow%2Bmobile%2Btechnologies%2Bmay%2Bbe%2Binfluence%2Bmadeleine%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A6030b41769d9840d32d56b29847a2565&seq=1]
+[https://www.researchgate.net/publication 270712143_The_emergence_of_portable_private-personal_territory_Smartphones_social_conduct_and_public_spaces]
+[(https://www.bing.com/search?pglt=2083&q=apple+accessibility&cvid=3c9cc82b7a20442088e962c838b4c1db&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIICAEQ6QcY8gcyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQRRg8MgYIBxBFGDwyBggIEEUYPDIICAkQ6QcY_FXSAQk0Njc0MmowajGoAgiwAgE&FORM=ANNAB1&PC=U531)]
+[https://www.sciencedirect.com/topics/computer-science/portable-computer]
+[file:///C:/Users/Administrator/Downloads/A_Review_of_Different_Comparative_Studies_on_Mobil.pdf]
+[Activator Pro 80/64, the Braille display for the workplace**(https://www.helptech.eu/activator-pro)]
+[**A Timeline of iOS Accessibility: It Started with 36 Seconds - MacStories**(https://www.macstories.net/stories/a-timeline-of-ios-accessibility-it-started-with-36-seconds/)]
+[**Bing Videos**(https://www.bing.com/videos/riverview/relatedvideo?&q=iPhone+history+and+accessibility&qpvt=iPhone+history+and+accessibility&mid=7CEE6B7A3CA0887FF9AC7CEE6B7A3CA0887FF9AC&&FORM=VRDGAR)]
+[**iPhone - Wikipedia**(https://en.wikipedia.org/wiki/IPhone)]
+[**1 iPhone Accessibility Features That Make Life Easier for Everyone - TechPP**(https://techpp.com/2025/07/31/iphone-accessibility-features/)]
 
-# Student number: X00226565 
 
-## First links to research 
+ 
 
-[*A computer in your pocket: The rise of smartphones | Science Museum​ **](https://www.sciencemuseum.org.uk/)
+## Wikipidia
 
-## Research from link  
-
-### Quick facts 
 
 - Almost all smartphones now have microprocessors which allow for increased computing power in a small place. 
 
@@ -82,36 +96,16 @@ Portable Computing has completely transformed the current workplace. Access to t
 
 
 
-https://www.jstor.org/stable/45211547?searchText=the+magic+inside+your+cell+phone&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dthe%2Bmagic%2Binside%2Byour%2Bcell%2Bphone%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A2c68a3db2580a4bc98aba26ee5b393f1&seq=2
-https://www.jstor.org/stable/44281955?searchText=seven+fears+and+the+science+of+how+mobile+technologies+may+be+influence+madeleine&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dseven%2Bfears%2Band%2Bthe%2Bscience%2Bof%2Bhow%2Bmobile%2Btechnologies%2Bmay%2Bbe%2Binfluence%2Bmadeleine%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A6030b41769d9840d32d56b29847a2565&seq=1
-https://www.researchgate.net/publication/270712143_The_emergence_of_portable_private-personal_territory_Smartphones_social_conduct_and_public_spaces
 
 
 
 
-[**apple accessibility - Search**](https://www.bing.com/search?pglt=2083&q=apple+accessibility&cvid=3c9cc82b7a20442088e962c838b4c1db&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIICAEQ6QcY8gcyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQRRg8MgYIBxBFGDwyBggIEEUYPDIICAkQ6QcY_FXSAQk0Njc0MmowajGoAgiwAgE&FORM=ANNAB1&PC=U531)
 
-[**Activator Pro 80/64, the Braille display for the workplace**](https://www.helptech.eu/activator-pro)
+[**apple accessibility - Search**]
 
-## Apple accessibility
 
-[**A Timeline of iOS Accessibility: It Started with 36 Seconds - MacStories**](https://www.macstories.net/stories/a-timeline-of-ios-accessibility-it-started-with-36-seconds/)
 
-## Video explaining accessibility
 
-[**Bing Videos**](https://www.bing.com/videos/riverview/relatedvideo?&q=iPhone+history+and+accessibility&qpvt=iPhone+history+and+accessibility&mid=7CEE6B7A3CA0887FF9AC7CEE6B7A3CA0887FF9AC&&FORM=VRDGAR)
-
- 
-
-## Wikipidia
-
-[**iPhone - Wikipedia**](https://en.wikipedia.org/wiki/IPhone)
-
- 
-
-iphone and best accessibility features  to try
-
-[**1 iPhone Accessibility Features That Make Life Easier for Everyone - TechPP**](https://techpp.com/2025/07/31/iphone-accessibility-features/)
 
  
 
@@ -169,10 +163,7 @@ Public behaviors are shiftting examples,
 
 
 
-https://www.sciencedirect.com/topics/computer-science/portable-computer
 
-
-file:///C:/Users/Administrator/Downloads/A_Review_of_Different_Comparative_Studies_on_Mobil.pdf
 
 
 Apple accessibility 
