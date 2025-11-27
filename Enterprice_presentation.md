@@ -1,4 +1,4 @@
-Introduction
+## Introduction
 
 The rise of portable computing represents one of the most gradual and rapidly developments in technology. Devices have evolved from simple mobile phones into powerful smartphones capable of communication, entertainment and education purposes. From an engineering perspective, the evolution of smartphones has been innovating from developing ARM microprocessors, energy-efficient RISC architectures and advanced mobile network technologies like 3G, 4G and 5G. These have enabled improved performance in computing in compact devices.
 
@@ -6,7 +6,7 @@ From a societal viewpoint, portable computing has changed communication, informa
 
 This case study traces the historical evolution of portable computing, exploring technical innovation and social concerns. This study provides an understanding of how technical choices influence social decisions and ethical behavior.
 
-Engineering Perspective
+## Engineering Perspective
 
 Mobile and portable devices have gone through a serious evolution. Mobile phones developed from just communicators into an essential device in our day by day. Back in the 1990s mobile phones were mainly used for calls and text messages, while other devices such as personal organisers handled calendars, note taking and other daily functions. As mobile phone prices began dropping, they became more affordable over time for people, especially teenagers. This rise in accessibility and youth adoption began shaping mobile culture which made mobile phones develop into smartphones.
 
@@ -22,7 +22,7 @@ Engineering also plays an important role in accessibility. Companies like Apple 
 
 Despite improvements, engineering challenges remain. Some apps do not follow accessibility guidelines, making them difficult or impossible for screen reader users. Devices that support accessibility well can be expensive. Software updates can break features that previously worked. Privacy concerns also arise when voice-based tools collect user data. Accessibility requires continuous attention, proper testing and awareness.
 
-Societal Perspective
+## Societal Perspective
 
 Having continuous access to mobile phones and social media has allowed people to communicate with one another far more frequently than in the past. Applications such as social media and messaging apps created a widespread ability to text rather than call. The disadvantage of this, however, is that today's youth are far more incapable of interacting with each other, whether it’s talking on the phone or connecting in person.
 
@@ -39,7 +39,7 @@ However, this creates problems such as dependence on phones, privacy issues and 
 The concept of “portable private-personal territory” explains how using a phone in a public space creates a private bubble that travels with the user. This changes public behavior. People can talk, browse or message while in a public space but are more isolated from their immediate surroundings. As one description states:  
 "Unlike computer users, cell phone owners are mobile, immersed in the crowd, yet able to communicate beyond it."
 
-Ethical and Legal Considerations
+## Ethical and Legal Considerations
 
 The introduction of portable computing brings safety concerns. Driverless cars may become more common, but concerns remain about pedestrian and driver safety. Data security is also a major concern. Data leaks are extremely common, and hackers can access personal data through email inboxes, social media and networks.
 
@@ -47,7 +47,7 @@ Unrestricted internet access by minors is also an ethical concern. Children can 
 
 Illegal data activity is common, including sharing people’s data without consent and distributing pirated movies and shows. These raise legal problems surrounding portable computing.
 
-Systems Perspective
+## Systems Perspective
 
 Portable computing systems include hardware, software, networks and user interfaces. ARM processors reduce energy consumption, enabling smaller devices. RISC architecture reduces the number of instructions for faster processing. 3G, 4G and 5G networks allow higher data speeds.
 
@@ -55,13 +55,13 @@ Touchscreens integrate multiple functions into one interface. Accessibility syst
 
 Network systems support hybrid work environments. With portable computing systems, information can be accessed anywhere. However, system vulnerabilities like software bugs, accessibility failures, data leaks and misinformation spread through network systems create societal risks.
 
-Future Improvements
+## Future Improvements
 
 There are still many risks regarding portable computing. To improve safety, stricter legislation is needed to protect data and children’s wellbeing. Technology will continue to change, and more advanced computing will likely become smaller over time. AI is becoming more common, and improvements are needed to make it a reliable tool rather than a source of misinformation.
 
 Battery life remains a problem, so improvements are needed to extend battery performance. AR and VR will also merge more into everyday use.
 
-Conclusion
+## Conclusion
 
 Overall, it can be determined that the evolution of portable computing shows how engineering has innovated through the years and how social behavior has been influenced by devices. Engineering advances in microprocessors, mobile networks and device design shaped how we access information, perform tasks and interact. This shows how important engineering is in shaping life.
 
@@ -69,7 +69,7 @@ From a societal point of view, portable computing has improved communication, ed
 
 Portable computing shows that technological progress must be accompanied by ethical reflection and societal consideration. By prioritizing accessibility and privacy, engineers and communities can ensure portable computing continues to develop while minimizing risks. The future of portable computing is not only based on technical advances but also on responsible digital society.
 
-References
+***References*** 
 
 
 https://www.sciencemuseum.org.uk/
