@@ -61,14 +61,6 @@ Touchscreens integrate multiple functions into one interface. Accessibility syst
 
 Network systems support hybrid work environments. With portable computing systems, information can be accessed anywhere. However, system vulnerabilities like software bugs, accessibility failures, data leaks and misinformation spread through network systems create societal risks.
 
-## Future Improvements
-
-
-
-
-
-Battery life remains a problem, so improvements are needed to extend battery performance. AR and VR will also merge more into everyday use.
-
 ## Conclusion
 
 Overall, it can be determined that the evolution of portable computing shows how engineering has innovated through the years and how social behavior has been influenced by devices. Engineering advances in microprocessors, mobile networks and device design shaped how we access information, perform tasks and interact. This shows how important engineering is in shaping life.
