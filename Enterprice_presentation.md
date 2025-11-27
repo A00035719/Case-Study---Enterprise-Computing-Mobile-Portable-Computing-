@@ -1,3 +1,4 @@
+# Case Study Semester 1 Nature of Enterprise Computing Group 29
 ## Introduction
 
 The rise of portable computing represents one of the most gradual and rapidly developments in technology. Devices have evolved from simple mobile phones into powerful smartphones capable of communication, entertainment and education purposes. From an engineering perspective, the evolution of smartphones has been innovating from developing ARM microprocessors, energy-efficient RISC architectures and advanced mobile network technologies like 3G, 4G and 5G. These have enabled improved performance in computing in compact devices.
