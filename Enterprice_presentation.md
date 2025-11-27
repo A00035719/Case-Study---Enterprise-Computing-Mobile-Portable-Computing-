@@ -42,13 +42,13 @@ The concept of “portable private-personal territory” explains how using a ph
 
 ## Ethical and Legal Considerations
 
-The introduction of portable computing brings safety concerns. Driverless cars may become more common, but concerns remain about pedestrian and driver safety. Data security is also a major concern. Data leaks are extremely common, and hackers can access personal data through email inboxes, social media and networks.
+The introduction of portable computing brings safety concerns. Driverless cars may become more common, but concerns remain about pedestrian and driver safety. Data security is also a major concern. Data leaks are extremely common, and hackers can access personal data through email inboxes, social media and networks. This is important because data privacy should be crucial while using the internet, as it decreases data fishing.
 
-Unrestricted internet access by minors is also an ethical concern. Children can access harmful content in videos and social media. A study by PMJ Pediatrics Open found harmful data and cyberbullying among 10–17 year olds, with 622 participants.
+Unrestricted internet access by minors is also an ethical concern. Children can access harmful content in videos and social media. A study by PMJ Pediatrics Open found harmful data and cyberbullying among 10–17 year olds, with 622 participants. This is far too common and it's important that minors should be protected from such. As it harms their mental wellbeing.
 
 Portable Computing has blurred the lines between private and public information. Social media and the internet use amongst young people is extremely common, however a lot of information they share is more public than they realise. This increases risks of identity theft and data fishing from companies, along with illegally selling data shared on these applications. Illegally shared data allows companies to beat out competitors and tailor their product or service to target you more specifically, allowing them to make more money from you. Once that data is on the internet, whether intended to be private or not, it is still public for companies to view.
 
-It has also been recorded that constant access to computing at our fingertips, is decreasing our situational awareness and attention spans. The exposure of young children to short form content online such as Tiktok or Instagram Reels has been proven to highlight much lower limits of patience and focus. According to Doctor Gloria Mark in an article from the American Psychology Association says this is due to constantly switching tasks and stimuli.
+It has also been recorded that constant access to computing at our fingertips, is decreasing our situational awareness and attention spans. The exposure of young children to short form content online such as Tiktok or Instagram Reels has been proven to highlight much lower limits of patience and focus. According to Doctor Gloria Mark in an article from the American Psychology Association says this is due to constantly switching tasks and stimuli. This is important as the technological world continues to develop, as people may become less functional members of society
 
 ## Systems Perspective
 
