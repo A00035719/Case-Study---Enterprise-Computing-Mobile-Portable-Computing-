@@ -73,16 +73,17 @@ Portable computing shows that technological progress must be accompanied by ethi
 ***References*** 
 
 
-https://www.sciencemuseum.org.uk/
+- Science Museum. History of Computing. https://www.sciencemuseum.org.uk/
 
-https://www.cnbc.com/2025/08/01/human-ai-relationships-love-nomi.html
+- Franck, T. (2025). Human–AI relationships: Love, Nomi and the rise of AI companions. CNBC. https://www.cnbc.com/2025/08/01/human-ai-relationships-love-nomi.html
 
-https://cmpsurvey.org/2020-survey/
+- Collaborative Multi-Racial Political Study (CMPS). (2020). 2020 Survey Data. https://cmpsurvey.org/2020-survey/
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12007062/
+- PMJ Pediatrics Open. (2024). Cyberbullying and harmful content among minors. https://pmc.ncbi.nlm.nih.gov/articles/PMC12007062/
 
-https://instituteforpr.org/how-do-different-generations-feel-about-hybrid-and-remote-work/
+- Institute for Public Relations (IPR). (2023). How Different Generations Feel About Hybrid and Remote Work. https://instituteforpr.org/how-do-different-generations-feel-about-hybrid-and-remote-work/
 
-https://www.brookings.edu/articles/misinformation-is-eroding-the-publics-confidence-in-democracy/
+- Brookings Institution. (2023). Misinformation is eroding the public’s confidence in democracy. https://www.brookings.edu/articles/misinformation-is-eroding-the-publics-confidence-in-democracy/
 
-A Review of Different Comparative Studies on Mobile OS (PDF you uploaded)  
+- A Review of Different Comparative Studies on Mobile OS. (PDF provided).
+
