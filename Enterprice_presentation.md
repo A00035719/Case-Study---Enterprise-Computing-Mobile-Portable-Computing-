@@ -46,7 +46,9 @@ The introduction of portable computing brings safety concerns. Driverless cars m
 
 Unrestricted internet access by minors is also an ethical concern. Children can access harmful content in videos and social media. A study by PMJ Pediatrics Open found harmful data and cyberbullying among 10–17 year olds, with 622 participants.
 
-Illegal data activity is common, including sharing people’s data without consent and distributing pirated movies and shows. These raise legal problems surrounding portable computing.
+Portable Computing has blurred the lines between private and public information. Social media and the internet use amongst young people is extremely common, however a lot of information they share is more public than they realise. This increases risks of identity theft and data fishing from companies, along with illegally selling data shared on these applications. Illegally shared data allows companies to beat out competitors and tailor their product or service to target you more specifically, allowing them to make more money from you. Once that data is on the internet, whether intended to be private or not, it is still public for companies to view.
+
+It has also been recorded that constant access to computing at our fingertips, is decreasing our situational awareness and attention spans. The exposure of young children to short form content online such as Tiktok or Instagram Reels has been proven to highlight much lower limits of patience and focus. According to Doctor Gloria Mark in an article from the American Psychology Association says this is due to constantly switching tasks and stimuli.
 
 ## Systems Perspective
 
@@ -59,6 +61,8 @@ Network systems support hybrid work environments. With portable computing system
 ## Future Improvements
 
 There are still many risks regarding portable computing. To improve safety, stricter legislation is needed to protect data and children’s wellbeing. Technology will continue to change, and more advanced computing will likely become smaller over time. AI is becoming more common, and improvements are needed to make it a reliable tool rather than a source of misinformation.
+
+Web developers should have an ethical duty to the users to decrease risks of erosion of cognitive functions. This may be helpful towards the gorwing popularity of short form content causing certain cognitive skills such as deep thinking and focus from eroding.
 
 Battery life remains a problem, so improvements are needed to extend battery performance. AR and VR will also merge more into everyday use.
 
@@ -86,4 +90,10 @@ Portable computing shows that technological progress must be accompanied by ethi
 - Brookings Institution. (2023). Misinformation is eroding the public’s confidence in democracy. https://www.brookings.edu/articles/misinformation-is-eroding-the-publics-confidence-in-democracy/
 
 - A Review of Different Comparative Studies on Mobile OS. (PDF provided).
+
+- Hinton, D. (2013). Private Conversations and Public Audiences: Exploring the Ethical Implications of Using Mobile Telephones to Research Young People’s Lives. *Young*, 21(3), 237–251. https://doi.org/10.1177/1103308813488813
+
+- Mark, G., & Mills, K. (2023). *Why our attention spans are shrinking* [Podcast]. American Psychological Association. https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans
+
+
 
