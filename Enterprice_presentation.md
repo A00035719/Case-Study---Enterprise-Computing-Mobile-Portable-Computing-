@@ -71,7 +71,6 @@ Portable computing shows that technological progress must be accompanied by ethi
 
 References
 
-(Only references used in the text were kept)
 
 https://www.sciencemuseum.org.uk/
 
