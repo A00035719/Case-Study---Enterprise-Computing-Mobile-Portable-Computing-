@@ -11,8 +11,9 @@ This case study traces the historical evolution of portable computing, exploring
 
 
 ## Engineering Perspective
- Years ago, technology was not made for people with disabilities. Before smartphones be-came popular, most blind people used phones with buttons and had to remember e
-Mobile and portable devices have gone through a serious evolution. Mobile phones developed from just communicators into an essential device in our day by day. Back in the 1990s mobile phones were mainly used for calls and text messages, while other devices such as personal organisers handled calendars, note taking and other daily functions. As mobile phone prices began dropping, they became more affordable over time for people, especially teenagers. This rise in accessibility and youth adoption began shaping mobile culture which made mobile phones develop into smartphones.
+ Years ago, technology was not made for people with disabilities. Before smartphones be-came popular, most blind people used phones with buttons and had to remember where the buttons were.
+ 
+Now mobile and portable devices have gone through a serious evolution. Mobile phones developed from just communicators into an essential device in our day by day. Back in the 1990s mobile phones were mainly used for calls and text messages, while other devices such as personal organisers handled calendars, note taking and other daily functions. As mobile phone prices began dropping, they became more affordable over time for people, especially teenagers. This rise in accessibility and youth adoption began shaping mobile culture which made mobile phones develop into smartphones.
 
 One of the main engineering developments was the ARM microprocessor. ARM chips can provide significant computing power while using very few amounts of energy. This made smartphones lightweight, portable and capable of running many different functions at once. These functions made us able to carry a portable computer in our pocket. Phones could store and play music, take photos and provide GPS services using touchscreen functions.
 
