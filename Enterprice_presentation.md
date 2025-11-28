@@ -122,3 +122,5 @@ Portable computing shows that technological progress must be accompanied by ethi
 - Hinton, D. (2013). Private Conversations and Public Audiences: Exploring the Ethical Implications of Using Mobile Telephones to Research Young People’s Lives. *Young*, 21(3), 237–251. https://doi.org/10.1177/1103308813488813
 
 - Mark, G., & Mills, K. (2023). *Why our attention spans are shrinking* [Podcast]. American Psychological Association. https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans
+- Longstaff, G. (2025) What is Moore’s Law? University of Law Blog, 19 May. Available at:https://www.law.ac.uk/resources/blog/what-is-moores-law/
+
