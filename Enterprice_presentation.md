@@ -36,6 +36,14 @@ For people with low vision, accessibility includes things like the Magnifier, wh
 
 Apple also introduced something called the back tap feature. This allows users to double tap or triple tap the back of the iPhone to perform a specific action. For example, I can set a double tap to turn VoiceOver on or off, which saves me time when I need to use it quickly. The triple tap can be set to do anything I want, such as taking a screenshot, opening an app, locking the phone, or even turning on the flashlight. It makes accessibility easier to reach for everyone and it is one of those small details that show how thoughtful design can make a big difference.
 
+Moore’s law states that the number of transistors on a microchip will be doubled every two years. This doubling has led to the continuous increased speed in processing information, helping scale the size of devices down and making it cheaper for manufacturers to make.
+In 1965 one of intel’s co-founders Gordon Moore released an article titled ‘the future of electronics’ this was the article where he described moores law.
+For the first ten years of moores observations his original hypothesis was that the transistors on microchips would double every year this hypothesis is built on empirical evidence and not scientific law, after ten years he changed his hypothesis to every two years. Since 1975 this hypothesis has stayed through guaranteeing that peoples computers would become twice as fast every two years for the last 50 years. 
+
+Moores law pushed companies to try and hit that two year mile stone and boosted the productivity of developing new microchips, for the next 20 years companies managed to increase computing power and decrease manufacturing costs every 18-24 months.
+Even though the law held for years it is beginning to lose momentum as people are focusing a lot on quantum computing. 
+
+Quantum computing is a form of computing that uses quibits to process information a lot faster. Quibits are like regular computer bits but they are in a state of super position. This means that the bit can be equal to 1 and 0 (True or false) at the same time. Its like the bit is in two places at once which increases the processing speed exponentially. Due to the fact that quantum computing is taking such massive steps in processing power companies have become increasingly drawn to them and spend billions on manufacturing. Still moores law has helped increase the rate of computing evolution and helped revolutionize the industry.
 
 ## Societal Perspective
 Having continuous access to mobile phones and social media has allowed people to communicate with one another far more frequently than in the past. Applications such as social media and messaging apps created a widespread ability to text rather than call. The disadvantage of this, however, is that today's youth are far more incapable of interacting with each other, whether it’s talking on the phone or connecting in person.
