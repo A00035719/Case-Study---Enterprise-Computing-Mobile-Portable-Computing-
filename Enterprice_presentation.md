@@ -8,7 +8,7 @@ From a societal viewpoint, portable computing has changed communication, informa
 This case study traces the historical evolution of portable computing, exploring technical innovation and social concerns. This study provides an understanding of how technical choices influence social decisions and ethical behavior.
 
 ## Hisorical Development
-Exactly what to press for each action. Writing a message or checking the time took many steps, and most of the time, help from others was needed. I think that made people like me feel de-pendent on others instead of independent. Things started to change when companies like Apple, Microsoft, and Google began to design their systems with accessibility built in. Ap-ple, for example, made accessibility one of its main values. It showed that accessibility should not be an extra feature—it should be part of every product.
+
 
 ## Engineering Perspective
  Years ago, technology was not made for people with disabilities. Before smartphones be-came popular, most blind people used phones with buttons and had to remember e
