@@ -61,6 +61,10 @@ Touchscreens integrate multiple functions into one interface. Accessibility syst
 
 Network systems support hybrid work environments. With portable computing systems, information can be accessed anywhere. However, system vulnerabilities like software bugs, accessibility failures, data leaks and misinformation spread through network systems create societal risks.
 
+Portable computing relies greatly on energy management systems. People carry their phones, laptops, and tablets around all day so they can receive calls, texts, and emails. some people spend all day working on their devices too and dont always have access to a plug socket to charge their devices. systems nowadays use methods like smart battery monitoring and low power comunication protocols. these systems help the battery last longer while making sure the performance of the devices isnt effected.
+
+Since its invention battery technology has taken many steps to improve battery life batteries started as nickel then to lithium ion and finally to solid state batteries. each time the batteries where upgraded people could use their devices for longer and their devices would gradually start to perform better with the upgrades. longer battery life along with devices performing better meant people where slowly becoming more able to work out of the office where ever they went.
+
 ## Conclusion
 
 Overall, it can be determined that the evolution of portable computing shows how engineering has innovated through the years and how social behavior has been influenced by devices. Engineering advances in microprocessors, mobile networks and device design shaped how we access information, perform tasks and interact. This shows how important engineering is in shaping life.
@@ -68,6 +72,7 @@ Overall, it can be determined that the evolution of portable computing shows how
 From a societal point of view, portable computing has improved communication, education and social connection. But it has also produced challenges such as overuse of devices, reliance on technology and misinformation. Accessibility features like screen readers and voice control show how engineering can support societal needs.
 
 Portable computing shows that technological progress must be accompanied by ethical reflection and societal consideration. By prioritizing accessibility and privacy, engineers and communities can ensure portable computing continues to develop while minimizing risks. The future of portable computing is not only based on technical advances but also on responsible digital society.
+
 
 ***References*** 
 
